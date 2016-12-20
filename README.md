@@ -4,10 +4,6 @@ Medium to big size companies that use open source and never bother to contribute
 Companies that are profitable enough or able to contribute back to Open Source software either by code, money, maintenance, management and etc...
 
 
-## Django
-
-* Instagram [+](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances)
-
 ## [Celery](http://www.celeryproject.org/)
 
 * Uber [+](https://eng.uber.com/tech-stack-part-one/)
