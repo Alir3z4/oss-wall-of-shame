@@ -14,7 +14,7 @@ Companies that are profitable enough or able to contribute back to Open Source s
 
 ## Read the Docs
 
-* DropBox [+](http://dropbox.readthedocs.io/en/latest/)[+](https://dropbox-sdk-python.readthedocs.io/en/master/)
+* ~~DropBox [+](http://dropbox.readthedocs.io/en/latest/)[+](https://dropbox-sdk-python.readthedocs.io/en/master/)~~[**Removed**](https://github.com/Alir3z4/oss-wall-of-shame/issues/2#issuecomment-268284289)
 
 ## PostgreSQL
 
