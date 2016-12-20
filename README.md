@@ -1,6 +1,7 @@
 # Open Source Software Wall of Shame
 
-Companies that use open source and never bother to contribute back.
+Medium to big size companies that use open source and never bother to contribute back.
+Comanies that are profitable enough to contribute back to Open Source software either by code, money, maintainance, management and etc...
 
 
 ## Django
