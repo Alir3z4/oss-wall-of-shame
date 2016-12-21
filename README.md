@@ -19,6 +19,7 @@ Companies that are profitable enough or able to contribute back to Open Source s
 ## MySQL
 
 * Uber [+](https://eng.uber.com/tech-stack-part-one/)
+* Pinterest[+](https://news.ycombinator.com/item?id=4003863)[+](https://www.quora.com/Pinterest/What-is-the-technology-stack-behind-Pinterest-1)[+](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 
 ## [Hadoop](http://hadoop.apache.org/)
 
@@ -27,6 +28,7 @@ Companies that are profitable enough or able to contribute back to Open Source s
 ## [Redis](http://redis.io/)
 
 * Uber [+](https://eng.uber.com/tech-stack-part-one/)
+* Pinterest[+](https://news.ycombinator.com/item?id=4003863)[+](https://www.quora.com/Pinterest/What-is-the-technology-stack-behind-Pinterest-1)[+](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 
 ## [Boto](http://docs.pythonboto.org/en/latest/)
 
@@ -47,3 +49,23 @@ Companies that are profitable enough or able to contribute back to Open Source s
 ## [Tornado](http://www.tornadoweb.org/en/stable/)
 
 * Uber [+](https://eng.uber.com/tech-stack-part-one/)
+
+## [Cassandra](http://cassandra.apache.org/)
+
+* Pinterest[+](https://news.ycombinator.com/item?id=4003863)[+](https://www.quora.com/Pinterest/What-is-the-technology-stack-behind-Pinterest-1)[+](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
+
+## [Solr](http://lucene.apache.org/solr/)
+
+* Pinterest[+](https://news.ycombinator.com/item?id=4003863)[+](https://www.quora.com/Pinterest/What-is-the-technology-stack-behind-Pinterest-1)[+](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
+
+## [Django](https://www.djangoproject.com/)
+
+* Pinterest[+](https://news.ycombinator.com/item?id=4003863)[+](https://www.quora.com/Pinterest/What-is-the-technology-stack-behind-Pinterest-1)[+](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
+
+## [Tornado](http://www.tornadoweb.org/en/stable/)
+
+* Pinterest[+](https://news.ycombinator.com/item?id=4003863)[+](https://www.quora.com/Pinterest/What-is-the-technology-stack-behind-Pinterest-1)[+](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
+
+## [Memcached](https://memcached.org/)
+
+* Pinterest[+](https://news.ycombinator.com/item?id=4003863)[+](https://www.quora.com/Pinterest/What-is-the-technology-stack-behind-Pinterest-1)[+](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
